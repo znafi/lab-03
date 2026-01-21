@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Name:** [Your Name Here]  
-**CCID:** [Your CCID Here]
+**Name:** [Zawad Nafi]  
+**CCID:** [znafi]
 
 ## Lab Description
 
@@ -27,7 +27,4 @@ This lab implements the ListyCity Android application with the following feature
 - Material Design Components for Android
 
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| [Your Name]  | [Your CCID] |
+N/A
